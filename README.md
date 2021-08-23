@@ -5,8 +5,8 @@ Thhe objective of this group project was to build a Facebook clone.
 
 ## Screenshots
 
-![home](./images/home.png)
-![app](./images/app.png)
+![home](./Images/home.png)
+![app](./Images/app.png)
 
 ## Task
 
