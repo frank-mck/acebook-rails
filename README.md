@@ -56,7 +56,7 @@ $ cd catbook
 $ bundle install
 $ bin/rails db:create
 $ bin/rails db:migrate
-$ bin/rails server 
+$ rails s 
 ```
 Navigate to localhost:3000 in your web browser
 
