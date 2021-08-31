@@ -6,7 +6,7 @@ Thhe objective of this group project was to build a Facebook clone.
 ## Screenshots
 
 ![home](./Images/home.png)
-![app](./Images/app.png)
+![app](https://raw.githubusercontent.com/frank-mck/acebook-rails/master/Images/2021-08-31%2009.14.36.gif)
 
 ## Task
 
